@@ -9,7 +9,6 @@ The ComTarget program is written in C and has been tested on Linux and Windows p
 3. compiling source code
 
 ```
-cd ComTarget_src
 gcc ComTarget.c -o ComTarget -lm -O3         
 ```
   or
@@ -26,5 +25,5 @@ Open Terminal (Mac & Linux) or PowerShell (Windows).
 The general synopsis for using ComTarget is:
 ```
 ComTarget inputFile 
-
+```
 
