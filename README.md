@@ -74,7 +74,7 @@ The CSV file contains prediction results including:
   Protein and gene names
   Uniprot ID
   Prediction category (HIGH/GOOD/MEDIUM/LOW/VERY LOW)
-## **Citation
+## **Citation**
 If you use ComTarget in your research, please cite:
 
 Database:
