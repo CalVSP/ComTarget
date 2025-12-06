@@ -15,16 +15,15 @@ ComTarget/
 ├── LICENSE
 ├── README.md
 ├── info_data/
-│   ├── box.data
-│   ├── discriptor.txt
-│   ├── ele_data.txt
-│   ├── score_data.txt
-│   ├── targets.tsv
-│   └── receptor_data/          # ← Extract downloaded files here
-│       ├── 1ABC.pdbqt
-│       ├── 2DEF.pdbqt
-│       └── ...
-
+│ ├── box.data
+│ ├── discriptor.txt
+│ ├── ele_data.txt
+│ ├── score_data.txt
+│ ├── targets.tsv
+│ └── receptor_data/ # ← Extract downloaded files here
+│ ├── 1ABC.pdbqt
+│ ├── 2DEF.pdbqt
+│ └── ...
 ## **Installation**
 The ComTarget program is written in C and has been tested on Linux and Windows platforms. It is provided as source codes. To install the command line version of ComTarget please follow the instructions below.
 1. Install GNU C compiler if you haven't already. On Ubuntu you may use sudo apt-get install gcc, for other Linux users you may need to use a different method.
