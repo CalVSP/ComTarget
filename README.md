@@ -9,7 +9,7 @@ Download URL: https://figshare.com/articles/dataset/Reverse_Target_Fishing_Prote
 
 DOI: 10.6084/m9.figshare.30812579
 
-After downloading, extract the files to create the following directory structure:
+After downloading, extract the files to create the following directory structure (/info_data/receptor_data/):
 ```markdown
 - ComTarget/
   - ComTarget.c
