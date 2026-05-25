@@ -83,7 +83,7 @@ Database:
 Li, Y. (2024). Reverse Target Fishing Protein PDBQT Database. figshare. https://doi.org/10.6084/m9.figshare.30812579
 
 Software:
-Li, Y. (2024). ComTarget: Chemical Target Prediction with Combinatorial Modeling. GitHub repository.
+Li, Y.; Shi, Q.; Lu, X.; Yang, D.; Yeerken, D.; Jin, H.; Sun, Q. ComTarget: Small-Molecule Target Prediction with Combinatorial Modeling. Pharmaceuticals 2026, 19, 715. https://doi.org/10.3390/ph19050715
 
 ## **License**
 ComTarget is distributed under the MIT License. See LICENSE file for details.
